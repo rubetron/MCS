@@ -13,3 +13,7 @@ The script example_corrigendum_HLN2011.m replicates the results from the first c
 
 # AUTHOR
 Written for Matlab by Alexandre Rubesam, based on the code from the modelconf R package, written by Rolf Tschernig and maintained by Niels Aka. 
+
+# INSTALLATION
+Copy contents to a folder estMCS and you're good to go.
+

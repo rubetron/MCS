@@ -10,3 +10,6 @@ to the paper, the authors recommend the use of the range statistics, which is th
 The script example_corrigendum_HLN2011.m replicates the results from the first column of Table IV in the Corrigendum to the paper. The file SW_infl4cast.csv contains inflation data (columns 'Obs') and inflation forecasts from 19 linear models (remaining columns). The example runs the MCS procedure and compares with the results in the table, producing the graph below.  
 
 ![plot](./example_corrigendum_HLN2011_barplot.png)
+
+# AUTHOR
+Alexandre Rubesam. This code is almost entirely adapted from the modelconf R package written by Rolf Tschernig and maintained by Niels Aka, which is availabe at https://github.com/nielsaka/modelconf/. 

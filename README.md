@@ -12,4 +12,4 @@ The script example_corrigendum_HLN2011.m replicates the results from the first c
 ![plot](./example_corrigendum_HLN2011_barplot.png)
 
 # AUTHOR
-Alexandre Rubesam. This code is almost entirely adapted from the modelconf R package written by Rolf Tschernig and maintained by Niels Aka, which is availabe at https://github.com/nielsaka/modelconf/. 
+Written for Matlab by Alexandre Rubesam, based on the code from the modelconf R package, written by Rolf Tschernig and maintained by Niels Aka. 
